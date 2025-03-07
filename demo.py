@@ -1,7 +1,7 @@
 def fun():
     a = 5
     b = 6
-    return d
+    return a + b
 
 
 x = fun()
